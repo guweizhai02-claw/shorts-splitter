@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.egg-info/
+dist/
+build/
+*.mp4
+*.jpg
+output/
+.shorts_splitter_cache/
